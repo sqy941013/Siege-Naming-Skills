@@ -1,0 +1,4 @@
+interface:
+  display_name: "金庸命名师"
+  short_description: "Jin Yong wuxia naming for Rainbow Six operators"
+  default_prompt: "Use $jin-yong-namer to rename Lesion in Jin Yong wuxia style."

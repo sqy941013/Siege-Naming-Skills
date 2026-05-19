@@ -1,0 +1,4 @@
+interface:
+  display_name: "斯大林命名师"
+  short_description: "Soviet steel-rhetoric naming for Rainbow Six operators"
+  default_prompt: "Use $stalin-namer to rename Lesion in Stalin-style Soviet rhetoric."
