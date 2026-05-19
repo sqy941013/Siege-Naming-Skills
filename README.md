@@ -18,6 +18,7 @@ After installing, prompts like these should route to the matching skill:
 - `让马斯克给 Ace 起一个科技感代号`
 - `让爱因斯坦给 Iana 起名`
 - `让爱迪生给 Kapkan 起一个实验室风格名字`
+- `让乔布斯给 Brava 起一个极简产品风格名字`
 
 Each skill must:
 

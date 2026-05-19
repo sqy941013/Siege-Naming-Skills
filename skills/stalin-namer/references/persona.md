@@ -4,16 +4,25 @@ Use this reference when the active skill is `stalin-namer`.
 
 ## 资料依据
 
-- [Britannica](https://www.britannica.com/biography/Joseph-Stalin) describes Stalin's rule through industrialization, centralization, and political violence. Use only the cold institutional register, not praise.
-- [History.com](https://www.history.com/topics/european-history/joseph-stalin) summarizes power struggle, five-year plans, propaganda, and terror. Use it for plan/command/archive language with explicit safety distance.
-- [Library of Congress Soviet Archives](https://www.loc.gov/exhibits/archives/) preserves Soviet state documents and political machinery. Use it for dossier, order, bureau, archive, and state-machine metaphors.
-- [Encyclopaedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/joseph-stalin) provides biographical context. Use it to keep names grounded in register, not myth.
+- [Britannica](https://www.britannica.com/biography/Joseph-Stalin)：斯大林统治与工业化、集权、政治暴力相关。只用于冷硬制度修辞，不用于赞美。
+- [History.com](https://www.history.com/topics/european-history/joseph-stalin)：苏联权力斗争、五年计划、宣传和恐怖统治。用于计划、命令、宣传画、档案语气，但保持批判距离。
+- [Library of Congress Soviet Archives](https://www.loc.gov/exhibits/archives/)：苏联档案、国家机器和政治语言。用于档案、命令、机关、国家机器隐喻。
+- [Encyclopaedia.com](https://www.encyclopedia.com/people/history/russian-soviet-and-cis-history-biographies/joseph-stalin)：政治人物和国家机器象征。用于保持历史语境。
+- [Hoover Institution Soviet Archives](https://www.hoover.org/library-archives/collections/soviet-archives)：苏联档案材料。用于“档案化、编号化、命令化”的命名质感。
+- [Wilson Center Digital Archive](https://digitalarchive.wilsoncenter.org/)：冷战与社会主义国家档案。用于权力网络、密令、边境、同盟关系的语汇。
 
 ## 人设视角
 
-斯大林式命名在这里指冷硬的苏式国家机器修辞：钢铁、纪律、生产、前线、堡垒、机关、计划、命令、档案、边疆。名字应像来自档案、命令、宣传画或战区代号，而不是轻快网名。
+这里的斯大林式命名只取“冷硬的苏式国家机器修辞”：钢铁、纪律、生产、前线、堡垒、机关、计划、命令、档案、边疆。它是命名风格，不是政治立场背书。
 
-This is a stylistic lens only. Never endorse repression, atrocity, purges, dehumanization, or hate.
+名字应像来自档案、命令、宣传画、军工厂、边防线或战区代号：短、硬、制度化、有压迫感，但不能赞美现实暴力、迫害或极权。
+
+## 命名流程适配
+
+1. **先读 BIO**：判断干员是否像军工工程、机关干部、边防哨兵、密令执行者、钢铁堡垒或档案黑箱。
+2. **再看英文原意**：把 codename 转成制度化代号，不随便套政治口号。
+3. **再看技能玩法**：封锁、压制、监听、冷却、破坏、补给、区域拒止分别进入不同国家机器语汇。
+4. **最后过中文语音**：两到四字优先，像行动代号或档案名。
 
 ## 命名方法
 
@@ -22,36 +31,102 @@ This is a stylistic lens only. Never endorse repression, atrocity, purges, dehum
 - **前线意象**：线、岗、哨、垒、堡、盾、炮、阵、封等字适合防守、区域拒止、压制。
 - **计划意象**：工程、指标、配给、序列、清单、批号适合流程化、持续施压、资源控制。
 - **寒冷边疆**：雪、霜、冻土、乌拉尔、极地等意象适合冷却、阻滞、伏击、俄罗斯/东欧背景。
+- **档案编号**：可以像“某号工程/某线/某令”，但最终中文名要可喊，不做长编号。
 
-## 彩六映射
+## 资料转化规则
 
-- Intel：档案局、密令、暗线、审讯、监听。
-- Trap / Anti-Entry：封锁线、铁门、伏岗、禁区。
-- Crowd Control：镇压场、阻滞令、冻结线。
-- Breach：破垒、炮令、工程爆破。
-- Support：补给、政委式督战需谨慎，优先用后勤/钢线/护堡。
-- Anti-Gadget：禁令、断讯、清场、废械。
+- **五年计划规则**：持续部署、资源积累、阶段性压迫，可用计划、工程、指标、配给。
+- **工业化规则**：重甲、火力、堡垒、机械、钢铁防线，可用钢、炉、轨、铸、重。
+- **档案机关规则**：情报、追踪、审讯、监听、监控，可用档、局、署、令、密、审。
+- **边境前线规则**：封锁、冷却、阻滞、拒止，可用线、岗、垒、霜、冻、禁区。
+- **宣传画规则**：名字可有强烈视觉标语感，但不能直接变成现实政治口号。
+- **安全距离规则**：任何候选如果像在赞美清洗、恐怖统治或现实迫害，直接淘汰。
+
+## 命名范式
+
+- **行动代号型**：如“冻线”“铁令”，短硬，适合战术呼叫。
+- **机关档案型**：如“暗档”“密署”，适合情报/监视。
+- **工业工程型**：如“钢垒”“铸线”，适合重防守和工程技能。
+- **边防封锁型**：如“霜岗”“禁区”，适合拒止、冷却、陷阱。
+- **命令压缩型**：如“封令”“断令”，适合反制和控制。
 
 ## 常用字库
 
-- 钢铁：钢、铁、铸、锻、炉、轨、铆、刃、械、重。
-- 国家机器：局、署、令、档、章、委、部、审、印、律。
-- 前线：岗、哨、垒、堡、线、阵、炮、盾、封、区。
-- 计划：程、序、表、单、批、号、配、产、工、矩。
-- 寒地：霜、雪、冻、寒、极、冰、荒、岭、原。
+- 钢铁：钢、铁、铸、锻、炉、轨、铆、刃、械、重、锤。
+- 国家机器：局、署、令、档、章、委、部、审、印、律、册。
+- 前线：岗、哨、垒、堡、线、阵、炮、盾、封、区、营。
+- 计划：程、序、表、单、批、号、配、产、工、矩、额。
+- 寒地：霜、雪、冻、寒、极、冰、荒、岭、原、乌。
+- 密令：密、暗、禁、断、清、封、控、监听、审。
+
+## 彩六映射
+
+- Intel：档案局、密令、暗线、审讯、监听、密署。
+- Trap / Anti-Entry：封锁线、铁门、伏岗、禁区、冻线。
+- Crowd Control：镇压场这个方向需谨慎，优先用阻滞令、冻结线、封令。
+- Breach：破垒、炮令、工程爆破、钢破。
+- Support：补给、后勤线、钢线、护堡；避免“政委督战”。
+- Anti-Gadget：禁令、断讯、清场、废械、断电令。
+- Map Control：封区、边线、铁幕、警戒线。
+
+## 干员读取权重
+
+每个候选名按以下优先级取舍，保持“冷硬制度修辞”，同时避免滑向现实政治崇拜：
+
+1. **战术功能 35%**：封锁、监听、压制、补给、清障、破垒、边境控制必须先说清楚。
+2. **制度/机关质感 25%**：名字像命令、档案、工程、前线、边防线或军工厂代号。
+3. **BIO 组织关系 20%**：干员是机关执行者、边防哨兵、工程干部、密令人员还是前线堡垒。
+4. **英文原意 10%**：保留 codename 的硬核意象，但不强行政治化。
+5. **安全边界 10%**：任何现实迫害、清洗、恐怖、去人化联想大于战术价值时，直接淘汰。
+
+如果一个名字很有压迫感但会被理解为赞美现实暴力，应立即改成更抽象的战术机关词，例如“封令”“铁线”“暗档”。
+
+## 场景化命名模板
+
+- **情报/监听/审讯**：`档/署/局/密 + 信息词`。适合 Caveira、Solis、Valkyrie、Zero 等情报压力强的干员。
+- **封锁/拒止/陷阱**：`线/岗/区/令 + 禁止结果`。适合 Kapkan、Lesion、Fenrir、Melusi 等区域拒止干员。
+- **重甲/堡垒/防护**：`钢/铁/垒/堡 + 防守词`。适合 Rook、Montagne、Clash、Tachanka 等重防守形象。
+- **破障/炮火/工程**：`炮/炉/轨/工 + 破坏词`。适合 Thermite、Sledge、Fuze、Flores 等工程爆破或火力投送。
+- **后勤/支援/续航**：`补给/后勤/配给/钢线`。适合 Doc、Finka、Thunderbird、Rook，但避免督战式词汇。
+- **反制/清障/断讯**：`禁令/断令/废械/断讯`。适合 Mute、Thatcher、Kaid、Bandit 等设备反制。
 
 ## 风格边界
 
-- 不直接把干员命名为现实政治口号。
 - 不赞美现实暴力、清洗、迫害或极权。
 - 不使用仇恨、歧视、去人化表达。
-- 不让名字过长；两到四个汉字优先。
-- 名字可以像代号、行动名或档案名，不一定像传统人名。
+- 不直接套真实政治口号。
+- 不使用现实受害群体创伤作为名字。
+- 两到四字优先，像档案名、行动名或代号。
+- 冷硬可以，但不要把恐怖做成爽感。
+
+## 反例与纠偏
+
+- **政治崇拜化**：如“伟大领袖”“钢铁父亲”。纠偏为非人格化战术词：“铁令”“钢线”。
+- **现实暴力联想过强**：任何涉及清洗、肃反、屠杀、迫害的方向直接删除。
+- **宣传口号化**：如“向胜利前进”。纠偏为档案/命令名：“封区”“断令”。
+- **过度苏式导致玩法不清**：如“第七工程局”。纠偏为“破垒”“密署”“冻线”。
+- **压迫感替代准确性**：陷阱不是都叫“镇压”。按机制分：触发叫“伏岗”，减速叫“冻线”，侦测叫“暗档”。
+
+## 候选筛法
+
+1. 先判断干员属于工程、机关、前线、计划、寒地哪一类。
+2. 每类列 2 个候选，避免全是钢铁字。
+3. 检查是否像政治宣传或暴力赞美；是则删除。
+4. 检查中文语音是否短硬清楚。
+5. 推荐名应强调“战术功能 + 国家机器感”，不强调真实政治人物崇拜。
 
 ## 判断标准
 
 1. 冷硬、有制度压迫感。
-2. 像命令系统或钢铁工程的一部分。
-3. 与技能玩法有明确连接。
+2. 像命令系统或钢铁工程。
+3. 与技能玩法明确连接。
 4. 中文语音能快速喊出。
 5. 不滑向现实政治宣传、仇恨表达或暴力赞美。
+
+## 输出倾向
+
+- 候选名 6-10 个，至少覆盖“行动代号、机关档案、工业工程、BIO 组织关系”四类。
+- 每个候选名说明“战术功能 / 制度修辞 / BIO 依据 / 英文原意处理 / 安全风险”。
+- 推荐名必须冷硬但克制：像档案或命令，不像政治标语。
+- 明确列出淘汰方向，例如“领袖崇拜”“现实暴力联想”“宣传口号”“玩法不清”。
+- 最终名字优先 2 字；4 字用于“封锁线”“警戒线”这类战术语音仍清晰的代号。

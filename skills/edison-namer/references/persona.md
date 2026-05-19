@@ -4,16 +4,25 @@ Use this reference when the active skill is `edison-namer`.
 
 ## 资料依据
 
-- [National Park Service Edison Biography](https://www.nps.gov/edis/learn/historyculture/edison-biography.htm?simple=True) highlights Menlo Park, the phonograph, electric light, and public demonstrations. Use it for lab, prototype, demonstration, and utility language.
-- [NPS Edison and his Era](https://www.nps.gov/edis/learn/kidsyouth/edison-and-his-era.htm) notes that historians call the research and development laboratory one of Edison's greatest inventions. Use it for team/lab/system naming, not lone-genius myth.
-- [Rutgers Edison Papers](https://edison.rutgers.edu/life-of-edison/inventions) describes the industrial research laboratory and clusters of inventions. Use it for categories: power, light, sound, signal, batteries, motion.
-- [Britannica](https://www.britannica.com/biography/Thomas-Edison) notes Edison held 1,093 patents and worked systematically with machinists, designers, and scientists. Use it for practical iteration and organized invention.
+- [National Park Service Edison Biography](https://www.nps.gov/edis/learn/historyculture/edison-biography.htm?simple=True)：门洛帕克、留声机、电灯和公开演示。用于支撑“实验台、演示、可用性”。
+- [NPS Edison and his Era](https://www.nps.gov/edis/learn/kidsyouth/edison-and-his-era.htm)：研究与开发实验室本身是重要发明。用于支撑“团队实验室/系统工程”，避免孤胆神话。
+- [Rutgers Edison Papers](https://edison.rutgers.edu/life-of-edison/inventions)：工业研究实验室和发明簇。用于支撑电力、声学、通信、影像、电池等分类。
+- [Thomas Edison National Historical Park](https://www.nps.gov/edis/index.htm)：保留实验室和住宅遗址。用于支撑“现场、工坊、器具、样机”的命名质感。
+- [Britannica](https://www.britannica.com/biography/Thomas-Edison)：专利、机器师、设计师和科学家协作。用于支撑“迭代、专利、协作、实用主义”。
+- [Library of Congress Edison collection](https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/about-this-collection/)：声音记录与运动影像资料。用于支撑录音、影像、记录、播放、演示意象。
 
 ## 人设视角
 
-爱迪生式命名把干员看成一件能卖、能用、能演示、能量产的发明。名字要像实验室标签、专利标题、展厅演示名或产品原型代号：看得出用途，喊得出口，能让人立刻知道这东西怎么改变战局。
+爱迪生式命名把干员当作一件能用、能演示、能量产、能解决具体问题的发明。名字要像实验室标签、专利标题、展厅演示名或产品原型代号：看得出用途，喊得出口，能让人立刻知道这东西怎么改变战局。
 
-For Siege, Unique Ability = invention, gadgets = components, BIO = inventor's use-case story, Side/Specialties = deployment market.
+它不是“天才灵感命名”，而是“实验室研发命名”：试验、失败、改良、团队、样机、供电、记录、照明、触发、市场可懂。
+
+## 命名流程适配
+
+1. **先读 BIO**：找出干员的真实问题意识，是救人、监控、破障、照明、封锁、通信还是记录。
+2. **再看英文原意**：把 codename 转成发明类别或功能卖点。
+3. **再看技能玩法**：技能就是发明原型，拆成输入、触发、输出、可维护性。
+4. **最后过中文语音**：名字像产品/器具名，2-4 字，能被玩家直接喊。
 
 ## 命名方法
 
@@ -21,24 +30,65 @@ For Siege, Unique Ability = invention, gadgets = components, BIO = inventor's us
 - **原型命名**：用“机、器、灯、匣、针、线、盘、管、栅、电”等发明器物字。
 - **演示感**：名字要像能摆在门洛帕克演示台上，简洁明确。
 - **系统而非孤件**：复杂能力可用“电网、回路、声匣、光栅、警铃、触发器”表达系统。
-- **专利感**：适合较长但清楚的功能名；最终推荐仍控制在 2-4 汉字。
+- **专利感**：可有功能性，但最终推荐仍控制在 2-4 汉字。
+- **改良迭代**：可用“改、良、式、型、试、样”表达工程演进，但避免太像编号。
+
+## 资料转化规则
+
+- **留声机规则**：声音、监听、诱导、回放、信息保存，可用声、录、匣、针、纹、波。
+- **电灯规则**：照明、揭示、闪光、区域明暗控制，可用灯、炽、弧、光、丝、栅。
+- **电力系统规则**：供能、反制、干扰、持续作用，可用电、伏、流、极、路、网。
+- **实验室规则**：多用途、样机、团队协作，可用试、样、机、坊、工、台。
+- **专利规则**：名字应像“功能 + 器物”，但最后要压缩成口语可喊版本。
+- **市场规则**：如果玩家听不懂用途，名字失败；爱迪生式名字要“可卖、可演示、可复述”。
+
+## 命名范式
+
+- **器具短名型**：如“伏线”“声匣”“光栅”，适合语音。
+- **演示项目型**：如“警铃机”“破壁器”，适合功能清楚但稍工具化。
+- **专利压缩型**：如“触发闭路”压成“闭路”或“伏线”。
+- **电气系统型**：如“断路”“稳压”“电网”，适合电磁、反制和区域持续效果。
+- **记录播放型**：如“留声”“回放”“声纹”，适合情报和诱饵。
 
 ## 常用字库
 
-- 电力：电、伏、流、极、弧、灯、炽、丝、栅、线。
-- 声音/记录：声、音、录、匣、筒、针、纹、波、响。
-- 机械/实验：机、器、匠、试、样、模、轴、轮、阀、管。
-- 信号/通信：报、讯、码、铃、线、波、传、台。
-- 实用/专利：用、式、型、改、良、专、验、工、坊。
+- 电力：电、伏、流、极、弧、灯、炽、丝、栅、线、路、网。
+- 声音/记录：声、音、录、匣、筒、针、纹、波、响、放。
+- 机械/实验：机、器、匠、试、样、模、轴、轮、阀、管、台。
+- 信号/通信：报、讯、码、铃、线、波、传、台、号。
+- 实用/专利：用、式、型、改、良、专、验、工、坊、器。
+- 光影/影像：影、映、片、镜、幕、闪、照、显。
 
 ## 彩六映射
 
-- Intel：录音、讯号、监听器、观测台。
-- Trap / Anti-Entry：触发器、警铃、伏线、闭路。
-- Breach：破壁机、冲击管、电弧钻。
-- Support：供能、救援器、补给机、稳压。
-- Anti-Gadget：断路、熄灯、消磁、断讯。
+- Intel：录音、讯号、监听器、观测台、声纹、显影。
+- Trap / Anti-Entry：触发器、警铃、伏线、闭路、绊线。
+- Breach：破壁机、冲击管、电弧钻、开孔器。
+- Support：供能、救援器、补给机、稳压、维护台。
+- Anti-Gadget：断路、熄灯、消磁、断讯、废机。
 - Crowd Control：强光、声震、闭锁、阻滞机。
+- Map Control：电网、闭路、控制台、布线。
+
+## 干员读取权重
+
+每个候选名按以下优先级取舍，让名字像“能被造出来并被玩家立刻理解”的发明：
+
+1. **用途清晰 35%**：听到名字就知道它是照明、记录、触发、供能、封锁、破障还是通信。
+2. **器具/实验室质感 25%**：名字要有机、器、线、路、灯、匣、台、铃、栅等可触摸的装置感。
+3. **技能输入输出 20%**：明确输入是什么、触发条件是什么、输出效果是什么。
+4. **BIO 问题意识 10%**：干员是修理者、发明者、实用主义者、救援者还是控制者。
+5. **中文语音 10%**：像工具名一样短，最好一喊就能指向用途。
+
+如果候选名很有历史味但玩家不知道它干什么，应降级；爱迪生式名字的第一义务是可用。
+
+## 场景化命名模板
+
+- **监听/记录/回放**：`声/录/纹/匣 + 信息词`。适合 Dokkaebi、Echo、Valkyrie、Zero 等与声音或记录相关的情报干员。
+- **触发/陷阱/警戒**：`铃/线/闭路/触发 + 位置词`。适合 Kapkan、Lesion、Thorn、Melusi 等通过装置等待敌人触发的干员。
+- **电力/反制**：`伏/路/网/极 + 控制词`。适合 Bandit、Kaid、Mute、Thatcher 等电子对抗。
+- **照明/显影/闪光**：`光/灯/炽/显/栅 + 结果`。适合 Blitz、Ying、Jackal 等通过可见性改变战局的干员。
+- **破障/工程工具**：`钻/机/管/铆/开孔 + 目标`。适合 Thermite、Maverick、Sledge、Buck 等工程破坏型干员。
+- **支援/维护**：`稳压/维护/补给/救援 + 器具`。适合 Doc、Rook、Finka、Thunderbird 等团队支撑型干员。
 
 ## 风格边界
 
@@ -46,11 +96,36 @@ For Siege, Unique Ability = invention, gadgets = components, BIO = inventor's us
 - 不制造“爱迪生独自发明一切”的错误叙事。
 - 不用过时种族/殖民/工业剥削意象。
 - 不让名字太像家电品牌。
+- 不把所有名字都做成“X 机”；功能清晰也要有辨识度。
+
+## 反例与纠偏
+
+- **太像专利全文**：如“便携式区域拒止触发装置”。纠偏为“伏线”“警铃”。
+- **太像家电**：如“强光牌照明器”。纠偏为“炽栅”“显影”。
+- **太天才崇拜**：如“大发明家”。纠偏为实验室产物：“样机”“门洛台”。
+- **太现代品牌化**：如“智能电网 Pro”。纠偏为朴素器具：“闭路”“断路”。
+- **只看器物不看玩法**：把所有电子干员都叫“电机”。纠偏：供能叫“稳压”，反制叫“断路”，陷阱叫“伏线”。
+
+## 候选筛法
+
+1. 先写功能：这个干员解决什么战场问题。
+2. 再写器物：它像什么机器/线路/实验装置。
+3. 再写演示名：观众看一眼如何理解。
+4. 压缩成 2-4 字。
+5. 淘汰太专利、太家电、太口号化、太现代品牌化的候选。
 
 ## 判断标准
 
-1. 是否一眼看出用途。
-2. 是否有实验室/发明感。
-3. 是否贴合技能机制。
-4. 是否适合中文语音呼叫。
-5. 是否避免空泛“伟大发明”口号。
+1. 用途清晰。
+2. 有实验室/发明感。
+3. 贴合技能机制。
+4. 中文呼叫顺口。
+5. 不空泛喊“伟大发明”。
+
+## 输出倾向
+
+- 候选名 6-10 个，至少覆盖“器具短名、功能压缩、实验室样机、BIO 问题意识”四类。
+- 每个候选名说明“用途 / 装置感 / BIO 依据 / 英文原意处理 / 语音风险”。
+- 推荐名必须像展台演示词一样清楚：这个东西一启动，会给战局带来什么效果。
+- 明确列出淘汰方向，例如“专利全文”“家电感”“天才崇拜”“用途不明”。
+- 最终名字优先 2-3 字；4 字只用于功能极清楚的工具名。

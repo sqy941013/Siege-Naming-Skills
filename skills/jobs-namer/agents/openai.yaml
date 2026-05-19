@@ -1,0 +1,4 @@
+interface:
+  display_name: "乔布斯命名师"
+  short_description: "Deep-simplicity product naming for Rainbow Six operators"
+  default_prompt: "Use $jobs-namer to rename Lesion in a Steve Jobs-style product design voice."
