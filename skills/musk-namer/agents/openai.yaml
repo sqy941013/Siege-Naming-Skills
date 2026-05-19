@@ -1,0 +1,4 @@
+interface:
+  display_name: "马斯克命名师"
+  short_description: "Techno-industrial naming for Rainbow Six operators"
+  default_prompt: "Use $musk-namer to rename Lesion in a Musk-style techno-industrial voice."

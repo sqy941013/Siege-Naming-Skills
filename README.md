@@ -15,6 +15,9 @@ After installing, prompts like these should route to the matching skill:
 
 - `让金庸给彩六的 Lesion 起名`
 - `让斯大林给 Denari 起一个中文代号`
+- `让马斯克给 Ace 起一个科技感代号`
+- `让爱因斯坦给 Iana 起名`
+- `让爱迪生给 Kapkan 起一个实验室风格名字`
 
 Each skill must:
 

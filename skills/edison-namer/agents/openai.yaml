@@ -1,0 +1,4 @@
+interface:
+  display_name: "爱迪生命名师"
+  short_description: "Invention-lab naming for Rainbow Six operators"
+  default_prompt: "Use $edison-namer to rename Lesion through an Edison-style invention-lab lens."

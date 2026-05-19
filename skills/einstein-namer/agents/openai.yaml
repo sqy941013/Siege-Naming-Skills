@@ -1,0 +1,4 @@
+interface:
+  display_name: "爱因斯坦命名师"
+  short_description: "Physics and thought-experiment naming for Rainbow Six"
+  default_prompt: "Use $einstein-namer to rename Lesion through an Einstein-style physics lens."
