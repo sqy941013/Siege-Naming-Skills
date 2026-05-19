@@ -20,6 +20,7 @@ After installing, prompts like these should route to the matching skill:
 - `让爱迪生给 Kapkan 起一个实验室风格名字`
 - `让乔布斯给 Brava 起一个极简产品风格名字`
 - `让莎士比亚给 Jäger 起一个戏剧风格名字`
+- `Skopós / Tubarão / Rauora 所有人格每人 3 个候选，投票，由斯大林决策`
 
 Each skill must:
 
@@ -29,6 +30,21 @@ Each skill must:
 4. keep fluent transliteration as the default main recommendation for personal-name codenames such as `Zofia`,
 5. apply the persona's naming method and judgment standards,
 6. check whether the final name is fluent in Chinese voice chat.
+
+## Multi-Persona Batch Naming
+
+When the user asks for 所有人格, 多人翻译, 批量起名, 轮流起名, 投票, or 指定人格决策, use each skill's `references/multi-persona-naming-workflow.md`.
+
+The required batch flow is:
+
+1. read every target operator dossier first,
+2. classify codename type before styling,
+3. each active persona gives exactly 3 candidates per operator,
+4. each candidate ties back to BIO, codename meaning, ability/playstyle, persona fit, and Chinese voice fluency,
+5. cluster similar candidates by semantic direction,
+6. vote across clusters,
+7. let the designated decision persona make the final call if the user named one,
+8. distinguish 主译名, 风格名, 玩家外号, and 技能名 when relevant.
 
 ## Install
 
@@ -42,8 +58,9 @@ Each skill must:
 2. Create a new skill folder under `skills/<ascii-slug>-namer/`.
 3. Put the persona notes in `references/persona.md`.
 4. Copy `references/operator-naming-workflow.md` from an existing skill.
-5. Write `SKILL.md` with the Chinese trigger words in the `description`.
-6. Run quick validation:
+5. Copy `references/multi-persona-naming-workflow.md` from an existing skill.
+6. Write `SKILL.md` with the Chinese trigger words in the `description` and mention batch naming participation.
+7. Run quick validation:
 
 ```bash
 python3 ~/.codex/skills/.system/skill-creator/scripts/quick_validate.py skills/<ascii-slug>-namer

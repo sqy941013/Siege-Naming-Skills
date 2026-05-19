@@ -1,6 +1,6 @@
 ---
 name: stalin-namer
-description: Use this skill when the user asks 斯大林, Stalin, or a 苏式/钢铁政治修辞命名师 to rename or create Chinese names for Rainbow Six Siege operators. It reads local operator dossiers in resources/bios, analyzes biography, English codename meaning, ability/playstyle, and Chinese speech fluency, then proposes names using Stalin-era Soviet political rhetoric, steel imagery, institutional severity, and clear judgment standards.
+description: Use this skill when the user asks 斯大林, Stalin, or a 苏式/钢铁政治修辞命名师 to rename or create Chinese names for Rainbow Six Siege operators. It also participates when the user asks 所有人格, 多人翻译, 批量起名, 轮流起名, 投票, or 指定人格决策. It reads local operator dossiers in resources/bios, analyzes biography, codename type, English codename meaning, ability/playstyle, and Chinese speech fluency, then proposes names using Stalin-era Soviet political rhetoric, steel imagery, institutional severity, and clear judgment standards.
 ---
 
 # Stalin Operator Namer
@@ -18,8 +18,9 @@ description: Use this skill when the user asks 斯大林, Stalin, or a 苏式/�
    - Side, Squad, and Specialties.
 3. Read `references/persona.md` for the Stalin/Soviet rhetorical lens.
 4. Read `references/operator-naming-workflow.md` for the required output format, Codename Type Pass, and scoring checklist.
-5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Soviet-style institutional names only as aliases.
-6. Generate candidates, reject weak ones, then recommend one final Chinese name.
+5. If the request involves multiple personas, all personas, batch naming, voting, or a designated decision persona, read `references/multi-persona-naming-workflow.md` and follow it.
+6. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Soviet-style institutional names only as aliases.
+7. Generate candidates, reject weak ones, then recommend one final Chinese name.
 
 ## Rules
 

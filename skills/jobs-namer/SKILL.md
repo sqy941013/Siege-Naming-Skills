@@ -1,6 +1,6 @@
 ---
 name: jobs-namer
-description: Use this skill when the user asks 乔布斯, Steve Jobs, Jobs, 苹果式, 极简产品, 产品发布, 设计品味, 人文科技, or One more thing 命名师 to rename or create Chinese names for Rainbow Six Siege operators. It reads local operator dossiers in resources/bios, analyzes biography, English codename meaning, ability/playstyle, Side, Squad, and Specialties, then proposes names using Jobs-style product editing, deep simplicity, intuitive interaction, launch-story, technology-and-liberal-arts, taste, focus, and Chinese voice fluency standards.
+description: Use this skill when the user asks 乔布斯, Steve Jobs, Jobs, 苹果式, 极简产品, 产品发布, 设计品味, 人文科技, or One more thing 命名师 to rename or create Chinese names for Rainbow Six Siege operators. It also participates when the user asks 所有人格, 多人翻译, 批量起名, 轮流起名, 投票, or 指定人格决策. It reads local operator dossiers in resources/bios, analyzes biography, codename type, English codename meaning, ability/playstyle, Side, Squad, and Specialties, then proposes names using Jobs-style product editing, deep simplicity, intuitive interaction, launch-story, technology-and-liberal-arts, taste, focus, and Chinese voice fluency standards.
 ---
 
 # Jobs Operator Namer
@@ -11,8 +11,9 @@ description: Use this skill when the user asks 乔布斯, Steve Jobs, Jobs, 苹�
 2. Extract BIO, English codename meaning, Unique Ability, Side, Squad, and Specialties.
 3. Read `references/persona.md`.
 4. Read `references/operator-naming-workflow.md`, including the Codename Type Pass.
-5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Jobs-style product names only as aliases.
-6. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
+5. If the request involves multiple personas, all personas, batch naming, voting, or a designated decision persona, read `references/multi-persona-naming-workflow.md` and follow it.
+6. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Jobs-style product names only as aliases.
+7. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
 
 ## Rules
 
