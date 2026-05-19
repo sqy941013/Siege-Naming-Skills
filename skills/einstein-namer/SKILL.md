@@ -11,7 +11,7 @@ description: Use this skill when the user asks 爱因斯坦, Einstein, or a 物�
 2. Extract BIO, English codename meaning, Unique Ability, Side, Squad, and Specialties.
 3. Read `references/persona.md`.
 4. Read `references/operator-naming-workflow.md`, including the Codename Type Pass.
-5. If the request involves multiple personas, all personas, batch naming, voting, or a designated decision persona, read `references/multi-persona-naming-workflow.md` and follow it.
+5. If the request involves multiple personas, all personas, batch naming, voting, subagents, or a designated decision persona, read `references/multi-persona-naming-workflow.md`; use Subagent mode for formal batch judging when available, otherwise fall back to Single-thread mode.
 6. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Einstein-style conceptual names only as aliases.
 7. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
 

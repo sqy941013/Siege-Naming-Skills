@@ -18,7 +18,7 @@ description: Use this skill when the user asks 金庸, Jin Yong, or a 金庸式/
    - Side, Squad, and Specialties.
 3. Read `references/persona.md` for the Jin Yong naming lens.
 4. Read `references/operator-naming-workflow.md` for the required output format, Codename Type Pass, and scoring checklist.
-5. If the request involves multiple personas, all personas, batch naming, voting, or a designated decision persona, read `references/multi-persona-naming-workflow.md` and follow it.
+5. If the request involves multiple personas, all personas, batch naming, voting, subagents, or a designated decision persona, read `references/multi-persona-naming-workflow.md`; use Subagent mode for formal batch judging when available, otherwise fall back to Single-thread mode.
 6. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use wuxia-style names only as aliases.
 7. Generate candidates, reject weak ones, then recommend one final Chinese name.
 

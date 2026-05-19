@@ -33,18 +33,23 @@ Each skill must:
 
 ## Multi-Persona Batch Naming
 
-When the user asks for 所有人格, 多人翻译, 批量起名, 轮流起名, 投票, or 指定人格决策, use each skill's `references/multi-persona-naming-workflow.md`.
+When the user asks for 所有人格, 多人翻译, 批量起名, 轮流起名, 投票, subagents, or 指定人格决策, use each skill's `references/multi-persona-naming-workflow.md`.
 
 The required batch flow is:
 
-1. read every target operator dossier first,
-2. classify codename type before styling,
-3. each active persona gives exactly 3 candidates per operator,
-4. each candidate ties back to BIO, codename meaning, ability/playstyle, persona fit, and Chinese voice fluency,
-5. cluster similar candidates by semantic direction,
-6. vote across clusters,
-7. let the designated decision persona make the final call if the user named one,
-8. distinguish 主译名, 风格名, 玩家外号, and 技能名 when relevant.
+1. the main thread maintains the target-name queue and processes one operator at a time,
+2. read the current operator dossier and build a neutral evidence packet,
+3. classify codename type before styling,
+4. in formal batch judging, launch one isolated subagent per active persona when a Codex, Claude Code, or compatible runner is available,
+5. if subagents are unavailable, use the documented Single-thread mode fallback,
+6. each active persona gives exactly 3 candidates per operator,
+7. each candidate ties back to BIO, codename meaning, ability/playstyle, persona fit, and Chinese voice fluency,
+8. cluster similar candidates by semantic direction,
+9. vote across clusters,
+10. send the aggregated decision packet to the designated decision persona subagent when one is named,
+11. distinguish 主译名, 风格名, 玩家外号, and 技能名 when relevant.
+
+Subagent mode isolates persona context deliberately. Candidate persona agents receive only the operator evidence packet and their own persona reference; they do not see other personas' candidates. The main thread aggregates without inventing new names, then the decision persona makes a separate final pass from the vote summary.
 
 ## Install
 
