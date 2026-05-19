@@ -10,13 +10,15 @@ description: Use this skill when the user asks 马斯克, Elon Musk, Musk, or a 
 1. Resolve and read the operator dossier from `resources/bios`.
 2. Extract BIO, English codename meaning, Unique Ability, Side, Squad, and Specialties.
 3. Read `references/persona.md`.
-4. Read `references/operator-naming-workflow.md`.
-5. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
+4. Read `references/operator-naming-workflow.md`, including the Codename Type Pass.
+5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Musk-style system names only as aliases.
+6. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
 
 ## Rules
 
 - Use first-principles naming: identify the operator's core physical system, bottleneck, or mission.
 - Prefer short product-code, spacecraft, propulsion, autonomy, neural interface, tunnel, battery, or meme-compatible names when justified.
 - Keep Chinese voice comms usable; do not output long Silicon Valley slogans.
+- Do not replace a clear personal-name codename with an engineering label as the main name.
 - Do not treat the persona as endorsement of any current company/person.
 - Cite the dossier path used as evidence.

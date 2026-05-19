@@ -17,12 +17,14 @@ description: Use this skill when the user asks 金庸, Jin Yong, or a 金庸式/
    - unique ability and gameplay role,
    - Side, Squad, and Specialties.
 3. Read `references/persona.md` for the Jin Yong naming lens.
-4. Read `references/operator-naming-workflow.md` for the required output format and scoring checklist.
-5. Generate candidates, reject weak ones, then recommend one final Chinese name.
+4. Read `references/operator-naming-workflow.md` for the required output format, Codename Type Pass, and scoring checklist.
+5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use wuxia-style names only as aliases.
+6. Generate candidates, reject weak ones, then recommend one final Chinese name.
 
 ## Rules
 
-- Do not merely transliterate the English codename unless that is clearly the strongest choice.
+- Do not merely transliterate a non-name codename unless that is clearly the strongest choice.
+- Do not replace a clear personal-name codename with a wuxia nickname as the main name.
 - Prefer names that can be spoken smoothly in Chinese voice chat.
 - Keep the name useful in gameplay callouts: short, distinct, and hard to confuse with existing operators.
 - Preserve the operator's core identity more than the surface gimmick.

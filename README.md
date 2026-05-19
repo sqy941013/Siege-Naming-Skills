@@ -19,13 +19,16 @@ After installing, prompts like these should route to the matching skill:
 - `让爱因斯坦给 Iana 起名`
 - `让爱迪生给 Kapkan 起一个实验室风格名字`
 - `让乔布斯给 Brava 起一个极简产品风格名字`
+- `让莎士比亚给 Jäger 起一个戏剧风格名字`
 
 Each skill must:
 
 1. read the target operator dossier from `resources/bios`,
 2. analyze biography, English codename meaning, ability/playstyle, Side, Squad, and Specialties,
-3. apply the persona's naming method and judgment standards,
-4. check whether the final name is fluent in Chinese voice chat.
+3. classify whether the codename is a personal-name codename, callsign/title codename, or mixed codename,
+4. keep fluent transliteration as the default main recommendation for personal-name codenames such as `Zofia`,
+5. apply the persona's naming method and judgment standards,
+6. check whether the final name is fluent in Chinese voice chat.
 
 ## Install
 

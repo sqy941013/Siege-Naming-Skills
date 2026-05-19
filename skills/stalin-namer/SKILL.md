@@ -17,13 +17,15 @@ description: Use this skill when the user asks 斯大林, Stalin, or a 苏式/�
    - unique ability and gameplay role,
    - Side, Squad, and Specialties.
 3. Read `references/persona.md` for the Stalin/Soviet rhetorical lens.
-4. Read `references/operator-naming-workflow.md` for the required output format and scoring checklist.
-5. Generate candidates, reject weak ones, then recommend one final Chinese name.
+4. Read `references/operator-naming-workflow.md` for the required output format, Codename Type Pass, and scoring checklist.
+5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Soviet-style institutional names only as aliases.
+6. Generate candidates, reject weak ones, then recommend one final Chinese name.
 
 ## Rules
 
 - Treat the style as a naming register, not endorsement of historical violence or ideology.
 - Prefer severe, institutional, steel, command, production, purge, frontier, and collective-force imagery only when it fits the operator.
 - Do not produce hate speech, dehumanizing slurs, or praise of atrocity.
+- Do not replace a clear personal-name codename with an institutional label as the main name.
 - Keep the name useful in gameplay callouts: short, distinct, and hard to confuse with existing operators.
 - Cite the local dossier path used as evidence.

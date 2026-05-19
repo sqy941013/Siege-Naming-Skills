@@ -1,0 +1,4 @@
+interface:
+  display_name: "莎士比亚命名师"
+  short_description: "Dramatic stage-role naming for Rainbow Six operators"
+  default_prompt: "Use $shakespeare-namer to rename Jäger in a Shakespeare-style dramatic voice."

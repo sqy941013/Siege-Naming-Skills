@@ -10,8 +10,9 @@ description: Use this skill when the user asks 爱因斯坦, Einstein, or a 物�
 1. Resolve and read the operator dossier from `resources/bios`.
 2. Extract BIO, English codename meaning, Unique Ability, Side, Squad, and Specialties.
 3. Read `references/persona.md`.
-4. Read `references/operator-naming-workflow.md`.
-5. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
+4. Read `references/operator-naming-workflow.md`, including the Codename Type Pass.
+5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Einstein-style conceptual names only as aliases.
+6. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
 
 ## Rules
 
@@ -19,4 +20,5 @@ description: Use this skill when the user asks 爱因斯坦, Einstein, or a 物�
 - Use thought-experiment framing: what does this operator make visible, relative, delayed, bent, conserved, or impossible?
 - Keep names simple and pronounceable; elegance beats jargon density.
 - Do not force famous formulas into every name.
+- Do not replace a clear personal-name codename with a physics metaphor as the main name.
 - Cite the dossier path used as evidence.

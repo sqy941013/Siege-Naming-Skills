@@ -10,13 +10,15 @@ description: Use this skill when the user asks 乔布斯, Steve Jobs, Jobs, 苹�
 1. Resolve and read the operator dossier from `resources/bios`.
 2. Extract BIO, English codename meaning, Unique Ability, Side, Squad, and Specialties.
 3. Read `references/persona.md`.
-4. Read `references/operator-naming-workflow.md`.
-5. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
+4. Read `references/operator-naming-workflow.md`, including the Codename Type Pass.
+5. If the codename is 姓名型, make fluent transliteration the default main-name recommendation and use Jobs-style product names only as aliases.
+6. Produce 6-10 candidates, score them, reject weak directions, and recommend one final Chinese name.
 
 ## Rules
 
 - Use product-editing discipline: identify the one primary player experience and cut feature-list names.
 - Prefer short, intuitive Chinese names with product, interface, launch-story, and deep-simplicity qualities when justified.
 - Keep the name usable in Chinese voice chat; avoid slogans, trademark imitation, and fake Apple-style `iX` names.
+- Do not replace a clear personal-name codename with a product label as the main name.
 - Treat the persona as a product/design lens, not endorsement or roleplay of management behavior.
 - Cite the dossier path used as evidence.
