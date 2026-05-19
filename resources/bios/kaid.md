@@ -1,0 +1,53 @@
+# Kaid
+
+- 干员代号: Kaid
+- 姓名: Jalal El Fassi
+- 出生年月: June 26th (Age 58)
+- 出生地: Aroumd, Morocco
+- Side: Defender
+- Squad: Redhammer
+- Specialties: Anti-Entry, Anti-Gadget
+- Source: https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/kaid
+
+## 武器与装备
+
+### 主武器
+- AUG A3 (SUBMACHINE GUN)
+- TCSG12 (SHOTGUN)
+
+### 次要武器
+- .44 MAG SEMI-AUTO (HANDGUN)
+- LFP586 (HANDGUN)
+
+### 道具
+- Barbed Wire
+- Nitro Cell
+- Observation Blocker
+
+### 技能
+"Rtila" Electroclaw
+
+## UNIQUE ABILITIES AND PLAYSTYLE
+
+Kaid’s "Rtila" Electroclaw can electrify reinforced walls and hatches, barbed wire, and deployable shields, making it tougher for the enemy to breach the Kasbah and any facility he’s tasked with protecting. He enters the field with two of these throwable gadgets. Once they’ve attached themselves to a surface, they each electrify metallic objects within a 0.75 meter radius.
+
+## BIOGRAPHY
+
+“Lead by example and the mountain will move.”
+
+Jalal El Fassi was raised on stories of the Fortress, the legendary training facility in the Atlas Mountains. Its incomparable reputation, along with its famed “Kaids” (Commander) were seared into El Fassi.
+
+He joined the GIGR (Royal Moroccan Gendarmerie) at 18, demonstrating natural leadership skills under fire. His ability to effectively command specialized squadrons in joint Trans-Saharan Counterterrorism Initiative (TSCTP) operations led to his promotion as Captain. After years of service, the Fortress’ reigning Commander chose his successor: El Fassi, whose authoritative but ethical style made him a worthy “Kaid”.
+
+His imposing presence and strict values led to success with his graduates, and the Fortress quickly gained accolades. He further proved its excellence through the thousands of soldiers who trained or taught on its grounds. Over years of negotiating, he welcomed troops from across Africa and the Middle-East, fostering stronger ties between TSCTP members and African Standby Force countries.
+
+### Psychological report
+Specialist Jalal “Kaid” El Fassi is an imposing Operator. His appearance alone inspires respect – it’s easy to see why his stature and demeanor strike fear in his students. Or how his body language warrants their respect and cooperation without him having to say a word. Frankly, it’s both daunting and fascinating at the same time. […]
+
+Specialist El Fassi descends from a long line of Commanders and their Fortress. The Fortress was in disrepute for quite some time, however – some business involving bribes from wealthy families – before El Fassi was at the helm. And it seems his administration not only eliminated these sordid dealings, but elevated the Fortress to heights unimagined by any of his predecessors. […]
+
+It’s been difficult separating Specialist El Fassi from his role. He’s sacrificed a personal life for the success of his Fortress, and his role makes it difficult to create interpersonal relationships. I suspect he prefers being alone—he certainly isn’t the type to open up and share, but I think I understand why. He’s taken it upon himself to guide and nurture the future of Moroccan Special Forces, and potentially all of North Africa. He is the rock that all others look up to, so Specialist El Fassi shoulders the brunt of that weight with equanimity because he believes nobody else can. […]
+
+Specialist El Fassi is particularly phlegmatic, and his dedication to his duty as Commander and to the Fortress is resolute. Rainbow spent years trying to persuade him to join, but he is not easily moved. The Fortress and its legacy were instilled in him as a child. It is his home, his castle, and I can see the time he spends there in solitude is invaluable. But we finally managed to cut a deal with him, one that not even the great Kaid could turn down… one to improve his school and propel it into international standing. This will be the first time El Fassi is among equals. Only time will tell how he reacts to not being in a position of authority. […]
+
+-- Dr. Harishva Pandey

@@ -1,0 +1,53 @@
+# Rook
+
+- 干员代号: Rook
+- 姓名: Julien Nizan
+- 出生年月: January 6th (Age 27)
+- 出生地: Tours, France
+- Side: Defender
+- Squad: Viperstrike
+- Specialties: Support
+- Source: https://www.ubisoft.com/en-us/game/rainbow-six/siege/game-info/operators/rook
+
+## 武器与装备
+
+### 主武器
+- MP5 (SUBMACHINE GUN)
+- P90 (SUBMACHINE GUN)
+- SG-CQB (SHOTGUN)
+
+### 次要武器
+- Reaper MK2
+- P9 (HANDGUN)
+- LFP586 (HANDGUN)
+
+### 道具
+- PROXIMITY ALARM
+- Impact Grenade
+- Observation Blocker
+
+### 技能
+Armor Pack
+
+##  UNIQUE ABILITIES AND PLAYSTYLE
+
+Rook is an anchor and buff Operator, capable of providing a boost to the Defenders, giving them a valuable advantage in a firefight.
+
+Rook is capable of protecting himself and his team mates through his unique ability: R1N ""RHINO"" Armor.
+
+## BIOGRAPHY
+
+“If you're going to get shot, you may as well do it right.”
+
+Nizan’s father is a respected stone mason while his mother held numerous jobs. They both informed his sense of architectural design and precision, helping him earn top rankings in school. Along with Nizan’s intellectual interests, he excelled in athletics from an early age, including Track & Field, fencing, and cycling. He later dropped out of university to cycle across France before returning and joining the Gendarmerie. Nizan thrived in his training, which included specialized qualifications in weapons, surveillance, and criminal investigations. His adaptability put him at the top of the list in military and defense courses, quickly catching the attention of the GIGN. His first operations with that unit combined all of the elements to satisfy his endless pursuit of challenges and adventure, according to staff psychologists. Specializing in hostage rescue and surveillance, Nizan’s list of successful interventions is extensive.
+
+### Psychological report
+In reviewing Specialist Julien “Rook” Nizan’s file, what stands out is his ability to adapt to demands. Very quickly into our conversation it was clear that Nizan’s interests are wide-reaching. From his descriptions, it sounds like his parents imparted their eclectic tastes. Julien and his sister, Élodie, were especially encouraged to be curious about everything. I would argue that it’s this openness to the world around him that led to the creation of his protective – yet still highly flexible – armor plating. […] 
+
+Nizan’s father is a stone mason, which requires imagination, precision, and dedication. His mother’s ability to explore different vocations with verve – bookkeeping, street busker, florist, tour guide, sommelier, and chef – all strongly influenced how Nizan adapts to challenges and what goals he sets out for himself. […] The field reports reflect some of Nizan’s chameleon-like way of merging into whatever role is required. This kind of versatility is rare – I’ve asked leads such as Specialists Gustav “Doc” Kateb and Miles “Castle” Campbell to challenge Nizan more during operations. […]
+
+I’m curious about how Nizan went from studying architecture to joining law enforcement. He grew up passionate about cycling, auto racing, and rock concerts, and he spent an inordinate amount of time trying to devise a scheme by which these could become careers. Ultimately, his interests evolved. Dropping out of university to cycle around France gave him his first sense of freedom. And then his world expanded further when he returned. At that time, the Gendarmerie enlisted his civilian father for an anti-corruption sting with local businesses. Nizan told me he was fascinated by the level of planning required by the police. […] 
+
+Right from the beginning, Nizan remembers appreciating the broad spectrum of skills and range of expertise required to be in law enforcement and the military. Every day is different. […] Nizan is one of the more constant optimists on the team. His ability to energize other specialists is important, and he’s certainly well liked. I’d like to see Nizan’s sense of adventure put to better use, however. Complacency benefits no one.
+
+-- Dr. Harishva “Harry” Pandey, Director of Rainbow
